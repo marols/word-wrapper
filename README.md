@@ -1,15 +1,14 @@
 ## Word Wrapper TDD kata
 
-This project has solved the Word Wrapper TDD kata using JavaScript, Karma, Mocha, and Chai
+### What is this thing?
+This project has solved the Word Wrapper TDD kata originally put forward by Robert C. Martin in [this blogpost](http://thecleancoder.blogspot.se/2010/10/craftsman-62-dark-path.html "The Clean Coder blog"). I have solved it using JavaScript, Karma, Mocha, and Chai.
 
-## Kata requirements
+### Kata requirements
 
-### In words:
+#### In words:
 Break strings at specified length or at the closest space before the specified length.
 
-### In test cases:
-
-				
+#### In test cases:
 
 Function call	 | Returns
 --- | --- | ---
