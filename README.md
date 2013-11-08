@@ -3,6 +3,8 @@
 ### What is this thing?
 This project has solved the Word Wrapper TDD kata originally put forward by Robert C. Martin in [this blogpost](http://thecleancoder.blogspot.se/2010/10/craftsman-62-dark-path.html "The Clean Coder blog"). I have solved it using JavaScript, Karma, Mocha, and Chai.
 
+Pair-programmed with [Balázs Suhajda](https://github.com/suhajdab "suhajdab on GitHub")
+
 ### Kata requirements
 
 #### In words:
